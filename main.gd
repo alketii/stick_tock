@@ -94,7 +94,7 @@ func _fixed_process(delta):
 				passed = false
 			
 	if walk:
-		theguy.move(Vector2(6,0))
+		theguy.move(Vector2(5,0))
 		#theguy.get_node("sprites").set_frame(int(theguy.get_pos().x) % 6)
 		if passed:
 			if not upsidedown:
