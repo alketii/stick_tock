@@ -1,2 +1,2 @@
-# sitck_tock
+# stick_tock
 Stick Hero clone for fun
